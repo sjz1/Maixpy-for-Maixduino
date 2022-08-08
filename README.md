@@ -19,7 +19,6 @@
 도서관 이용률을 높이는 효과를 기대할 수 있습니다
 
 ## 사용한 장비 = Maixduino
-![maix](https://user-images.githubusercontent.com/68888169/183428825-e03800c6-8696-4427-98eb-1ebafb7034f8.jpg)
 
 ![코드1](https://user-images.githubusercontent.com/68888169/183428856-ef029108-fa88-4545-9896-782959cadfcb.PNG)
 ![코드2](https://user-images.githubusercontent.com/68888169/183428869-1896b3d1-2e2e-4c13-968a-4a15acdde405.PNG)
